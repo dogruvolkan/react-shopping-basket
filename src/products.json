@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "name":"Muz",
+        "price" :28.50,
+        "img" : "https://cdn.getir.com/product/5cac8d0b03c5fd0001497976_tr_1579677305629.jpeg"
+    },
+    
+    {
+        "id":2,
+        "name":"Kavun",
+        "price" :24.50,
+        "img" :"https://cdn.getir.com/product/5f0ff03f97ccc50527acf9b3_tr_1596521617949.jpeg"
+    },
+    {
+        "id":3,
+        "name":"Üzüm",
+        "price" :15.50,
+        "img" : "https://cdn.getir.com/product/5f2162a356b9b125791d57ba_tr_1596543638749.jpeg"
+    },
+    {
+        "id":4,
+        "name":"Elma",
+        "price" :10.24,
+        "img" : "https://cdn.getir.com/product/5fa564470ae463669aa13412_tr_1604928950327.jpeg"
+    },{
+        "id":5,
+        "name":"Mandalina",
+        "price" :16.95,
+        "img" : "https://cdn.getir.com/product/5bbb7a3646559c001e5a77b5_tr_1636582560894.jpeg"
+    },
+    {
+        "id":6,
+        "name":"Avakado",
+        "price" :38.50,
+        "img" : "https://cdn.getir.com/product/6050c7a16e5017d2cdb1c214_tr_1616134921226.jpeg"
+    },
+    {
+        "id":7,
+        "name":"Domates",
+        "price" :17.50,
+        "img" : "https://cdn.getir.com/product/5c8f911e9d3d5a0001a9f79e_tr_1659535724130.jpeg"
+    },
+    
+    {
+        "id":8,
+        "name":"Salatalık",
+        "price" :9.99,
+        "img" :"https://cdn.getir.com/product/5cac8c9503c5fd00014978d0_tr_1609396490685.png"
+    },
+    {
+        "id":9,
+        "name":"Patlıcan",
+        "price" :5.10,
+        "img" : "https://cdn.getir.com/product/5ced482a4a8a2a000137da47_tr_1564989399368.jpeg"
+    },
+    {
+        "id":10,
+        "name":"Biber",
+        "price" :17.50,
+        "img" : "https://cdn.getir.com/product/5ced482ad349d10001e70515_tr_1560248228776.jpeg"
+    },{
+        "id":11,
+        "name":"Soğan",
+        "price" :45,
+        "img" : "https://cdn.getir.com/product/5e720ad975574662e6ecbbb5_tr_1644228608654.jpeg"
+    },
+    {
+        "id":12,
+        "name":"Patates",
+        "price" :33.50,
+        "img" : "https://cdn.getir.com/product/5c9235bad0222600018b999a_tr_1583485602247.jpeg"
+    }
+
+]
